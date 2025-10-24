@@ -76,3 +76,8 @@ DELETE  /productes/12
 Cada combinació de **mètode + ruta** defineix una acció concreta. Així, una API REST acaba funcionant com un **catàleg ordenat de rutes** que permeten al client comunicar-se amb el servidor d’una manera clara, estructurada i previsible.
 
 Bé, ara que ja tenim més o menys clars els conceptes, anem a veure-ho en la pràctica a través de diversos exemples.
+
+## Projectes d'exemple
+
+* [Creació d'un Backend senzill amb arquitectura plana](https://github.com/joamuran/exemlesRest_Plain)
+* [Creació d'un Backend senzill estructurat](https://github.com/joamuran/exemlesRest_Estructurat)
