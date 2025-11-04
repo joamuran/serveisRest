@@ -81,3 +81,4 @@ Bé, ara que ja tenim més o menys clars els conceptes, anem a veure-ho en la pr
 
 * [Creació d'un Backend senzill amb arquitectura plana](https://github.com/joamuran/exemlesRest_Plain)
 * [Creació d'un Backend senzill estructurat](https://github.com/joamuran/exemlesRest_Estructurat)
+* * [Creació d'un Backend senzill amb arquitectura CLEAN](https://github.com/joamuran/exemplesRest_CLEAN)
